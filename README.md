@@ -8,3 +8,5 @@ kjharmel.github.io
 [Find me on twitter!] (https://twitter.com/)
 
 **I am a _business management major_ concentrating on _operational management_**
+
+<p><b> i thought this was a very interesting assignment<b></p>
