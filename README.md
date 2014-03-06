@@ -6,3 +6,5 @@ kjharmel.github.io
 ![Myrtle Beach](http://www.tripping.com/blog/wp-content/uploads/2013/05/myrtle-beach.jpg)
 
 [Find me on twitter!] (https://twitter.com/)
+
+**I am a _business management major_ concentrating on _operational management_**
