@@ -10,3 +10,5 @@ kjharmel.github.io
 **I am a _business management major_ concentrating on _operational management_**
 
 <p><b> i thought this was a very interesting assignment<b></p>
+
+<p>this a<sub> very cool</sub> feature when creating my <sup>webpage for class</sup></p>
